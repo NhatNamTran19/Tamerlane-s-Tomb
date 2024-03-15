@@ -1,8 +1,3 @@
-This asset was uploaded by http://unityassetcollection.com
-
-Enjoy!!!
-
-If you find this package helpful and want to support us. 
-Please go to https://www.buymeacoffee.com/unitycollection and "buy me a coffee"
-We really appreciate your help.
-Thank you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fbd4c6eaeebd485ba5c8029d68d7fe32efac5a12dae015909b57c52a4c5ee19
+size 257
