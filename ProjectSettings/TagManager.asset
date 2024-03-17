@@ -8,6 +8,7 @@ TagManager:
   - MachineGun
   - SniperGun
   - Enemy
+  - AimPoint
   layers:
   - Default
   - TransparentFX
