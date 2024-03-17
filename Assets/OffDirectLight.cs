@@ -1,16 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class OffDirectLight : MonoBehaviour
-{
-    [SerializeField] private GameObject _directLight;
-    private void OnTriggerEnter(Collider collider)
-    {
-        if (collider.gameObject.CompareTag("Player"))
-        {
-            _directLight.gameObject.SetActive(false);
-        }
-    }
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7289baed16b454482d2ad4306be900fdd8385a151a59c90a88261c309bfafff5
+size 390

@@ -1,19 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Key1 : MonoBehaviour
-{
-    [SerializeField] GameManager3d _gameManager;
-    [SerializeField] DoorOpen _doorOpen;
-
-    private void Update()
-    {
-        if(_gameManager._goldKey)
-        {
-            _doorOpen.enabled = true;
-        }
-    }
-
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7fc20c65bf4659f8b2a3831db3d2bb9623bfe75f5f0d98c52093b2eb344b90
+size 360

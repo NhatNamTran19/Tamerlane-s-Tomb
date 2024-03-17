@@ -1,16 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using TMPro;
-using UnityEngine;
-
-public class HealthText : MonoBehaviour
-{
-    [SerializeField] private TMP_Text _ammoText;
-    [SerializeField] private Health _health;
-
-    // Update is called once per frame
-    void Update()
-    {
-        _ammoText.text = _health._healthPoint.ToString();
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:11f6fd494004ef14cb3b40ca70280497372af55e2f62ea9acf50be4c7b689cbe
+size 375

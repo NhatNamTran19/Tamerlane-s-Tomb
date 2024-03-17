@@ -1,17 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-
-
-[CreateAssetMenu]
-public class EnemyInfo : ScriptableObject
-{
-    public string _name;
-    public string _description;
-    public int _speed;
-    public int _maxHealth;
-    public float _delayAttack;
-    public float _delayHit;
-    public int _dmg;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d61b5d747c32f631e84e6b23129cb0d1464300fa7691a2d019193886e74a25d
+size 350
